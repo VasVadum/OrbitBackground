@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Orbital Background</name>
+	<author>Vas</author>
+	<url>N/A</url>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>A very simple mod that changes the wallpaper to the main menu of Rimworld, does nothing else at all. I felt that the crashed ship effect was a little odd, it looked like a crashed ship on the planet instead of something that exploded in orbit. I have the source file for the image so I may make future tweaks later on as well based on input here.</description>
+</ModMetaData>
